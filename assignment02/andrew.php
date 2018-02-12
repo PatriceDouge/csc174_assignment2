@@ -38,18 +38,28 @@
 
 			<h2>Intiial Team Role: Designer</h2>
 	
-	        <h3> Executive Summary </h3>
 	        <p>
 	            I am passionate, highly motivated, well-versed computer science professional eager to take on new challenges in an exciting, fast-paced sphere of mobile and web application design and development.
 	        </p>
 
-	        <h3> My Projects and Additional Courses </h3>
 	        <p>
 	            Game Review Web App: users can create accounts, rate and comment on games, and add games (their photo and description) to be reviewed. Comments are sorted by their total like count in descending order. Made with MAMP stack: PHP, MySQL, Python, CSS, HTML, AJAX, Javascript, cookies, and jQuery. Satisfies CRUD (create, read, update, delete) standards. Commenting system implemented via AJAX.  Made independently.
 	            Multipage Website: Made with HTML, CSS, JavaScript, and jQuery. Built a website featuring a navigation bar, banner, responsive design. Each page displays information (pic, bio, tables, etc..) about a prominent historical figure. Uses a sitemap and Google Analytics to track data. Search engine optimized. Made independently.
 	            Three Games: Made with Android Studio (Java and XML). The main activity contains 3 buttons where each button starts a respective (two-player) game: hotter/colder, hangman, or connect4. Built Follows MVC design pattern. One activity is the main activity. Made independently.
 	            Non STEM courses: Public Speaking, Principles of Economics, Psychology of Consumerism, Economic Statistics, Relationships and Emotional Processing, Microeconomics, Social and Emotional Development, and Principles of Marketing.
 	        </p>
+
+
+	        <h3> Skill Set </h3>
+
+	        <ul>
+				<li>Game Review Web App</li>
+				<li>Web designer</li>
+				<li>Game developer</li>
+				<li> MAMP stack: PHP, MySQL, Python, CSS, HTML, AJAX, Javascript, cookies, and jQuery.</li>
+			</ul>
+
+	        
 
 			<h2>Work Experience</h2>
 
