@@ -15,7 +15,7 @@
 	</header>
 
 
-	<nav class="menu">
+	<nav class="menu" id="t">
 		<ul>
 			<li><a href="index.php">Home</a></li>
 			<li><a href="sarah.php">Information Architect</a></li>
