@@ -1,0 +1,44 @@
+body {
+	color: white;
+	background: rebeccapurple;
+	text-align: center;
+}
+
+.menu {
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 0;
+	margin-bottom: 10px;
+	margin-right: 0;
+}
+.menu ul {
+	margin: 0;
+	padding-left: 0;
+	list-style: none;
+}
+.menu li {
+	display: inline-block;
+	background: black;
+}
+.menu a {
+	color: red;
+	display: block;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	border: solid;
+	border-width: 1px;
+	border-color: #333333;
+	text-decoration: none;
+}
+.menu a:hover {
+	background-color: #ad235e;
+	color: #b2cecf;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
