@@ -42,3 +42,21 @@ img {
     width: 200px;
 }
 
+
+
+.border{
+	background-color:#ffffff; 
+	padding-left: 20px;
+	padding-right: 20px;
+	margin: 10px;
+	border: 2px solid #ffffff;
+}
+
+
+.container {
+
+	margin: 0 auto;
+	width: 80%;
+	max-width: 860px;
+	display: grid;
+}
